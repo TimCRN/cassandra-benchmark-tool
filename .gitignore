@@ -130,3 +130,7 @@ dmypy.json
 
 # Visual Code
 .vs/
+
+# Project files
+results/
+table_fetch_combis.json
