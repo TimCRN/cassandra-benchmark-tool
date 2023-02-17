@@ -1,4 +1,7 @@
 # Cassandra Benchmarking Tool
+**MAIN**:&nbsp;[![Python application](https://github.com/TimCRN/cassandra-benchmark-tool/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/TimCRN/cassandra-benchmark-tool/actions/workflows/python-app.yml)&nbsp;&nbsp;&nbsp;&nbsp;
+**DEV**:&nbsp;[![Python application](https://github.com/TimCRN/cassandra-benchmark-tool/actions/workflows/python-app.yml/badge.svg?branch=dev)](https://github.com/TimCRN/cassandra-benchmark-tool/actions/workflows/python-app.yml)
+
 This tool is aimed towards a cluster of 8 Raspberry Pi's to generate benchmark results based on the given configuration from the user.<br /><br />
 
 ![benchmark-gif](https://user-images.githubusercontent.com/5428990/219660687-030f8201-d221-4aa3-ab85-e718081e34e3.gif)
